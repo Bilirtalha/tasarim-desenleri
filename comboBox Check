@@ -1,0 +1,19 @@
+ private void button1_Click(object sender, EventArgs e)
+        {
+            var hayvan = new Hayvan();
+            hayvan.adi = textBox1.Text;
+            hayvan.AyakSayısı = uint.Parse(textBox2.Text);
+            if(comboBox1.SelectedIndex == 0)
+            {
+                hayvan.Memeli = true;
+                
+            }
+            else
+            {
+                hayvan.Memeli = false;
+            }
+            Hayvanlar.Add(hayvan);
+            Hayvan = hayvan;
+            comboBox2.Items.Add(hayvan.adi);
+            MessageBox.Show("Bilgiler Eklendi");
+        }
