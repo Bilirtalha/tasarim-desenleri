@@ -1,0 +1,14 @@
+private void button1_Click(object sender, EventArgs e)
+        {
+            MarketUrun marketurun = new MarketUrun();
+            marketurun.ID = market.MaxUrunID;
+            market.MaxUrunID += 1;
+            marketurun.Name = textBox2.Text;
+            marketurun.Kategori = comboBox1.SelectedItem.ToString();
+            marketurun.Barkod = "MRKT" + marketurun.Kategori + RandomString(5);
+            marketurun.Fiyat = Convert.ToDouble(textBox1.Text);
+            market.urunler.Add(marketurun);
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = market.urunler;
+
+        }
