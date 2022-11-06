@@ -1,0 +1,14 @@
+private void button2_Click(object sender, EventArgs e)
+        {
+            var sahip = new Sahip();
+            sahip.SahipAdı = textBox3.Text;
+            sahip.HayvanAdi = textBox4.Text;
+            sahip.Hayvan = comboBox2.SelectedItem.ToString();
+            sahip.adi = Hayvan.adi;
+            sahip.AyakSayısı = Hayvan.AyakSayısı;
+            sahip.Memeli = Hayvan.Memeli;
+            MessageBox.Show("Bilgiler Eklendi");
+            Sahipler.Add(sahip);
+            tablo.Rows.Add(sahip.SahipAdı, sahip.HayvanAdi, sahip.Hayvan,sahip.AyakSayısı,sahip.Memeli.ToString());
+            dataGridView1.DataSource = tablo;
+        }
