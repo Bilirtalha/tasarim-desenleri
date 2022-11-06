@@ -1,0 +1,4 @@
+DataTable tablo = new DataTable();
+        public Hayvan Hayvan = new Hayvan();
+        public List <Hayvan> Hayvanlar = new List<Hayvan> ();
+        public List<Sahip> Sahipler { get; set; } = new List<Sahip> ();
