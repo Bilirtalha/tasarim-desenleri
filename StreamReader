@@ -1,0 +1,8 @@
+public Form1()
+        {
+            InitializeComponent();
+            StreamReader sr = new StreamReader("./kategoriler.txt");
+            MessageBox.Show(sr.ReadToEnd());
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = market.urunler;
+        }
