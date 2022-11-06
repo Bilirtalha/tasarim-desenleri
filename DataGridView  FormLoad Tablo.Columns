@@ -1,0 +1,8 @@
+private void Form1_Load(object sender, EventArgs e)
+        {
+            tablo.Columns.Add("Sahip Adı", typeof(string));
+            tablo.Columns.Add("Evcil hayvan Adı", typeof(string));
+            tablo.Columns.Add("Tür", typeof(string));
+            tablo.Columns.Add("AyakSayısı", typeof(uint));
+            tablo.Columns.Add("Memeli", typeof(string));
+            dataGridView1.DataSource = tablo;
