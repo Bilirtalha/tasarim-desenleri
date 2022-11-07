@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qA5Xx7/CwyLWRMdg7KTBGQ2E3ihRAhmzzr0LbnUEf++M5+qP73pkLlucJfBLbNDsBi70qYLW1h/mevtdMJgfsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deskap1\\source\\repos\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deskap1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
