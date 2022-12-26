@@ -1,0 +1,11 @@
+F:\yazılım geliştirme\C#\örnek 7\bin\Debug\örnek 7.exe.config
+F:\yazılım geliştirme\C#\örnek 7\bin\Debug\örnek 7.exe
+F:\yazılım geliştirme\C#\örnek 7\bin\Debug\örnek 7.pdb
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.csproj.AssemblyReference.cache
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.csproj.SuggestedBindingRedirects.cache
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek_7.Form1.resources
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek_7.Properties.Resources.resources
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.csproj.GenerateResource.cache
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.csproj.CoreCompileInputs.cache
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.exe
+F:\yazılım geliştirme\C#\örnek 7\obj\Debug\örnek 7.pdb
