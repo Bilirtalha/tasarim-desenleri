@@ -1,0 +1,48 @@
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lab.pc1\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\DERSLER\2.YIL\GÜZ\2.MUHAMMED\SQL FİNAL\BİLGİ YARIŞMASI\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
