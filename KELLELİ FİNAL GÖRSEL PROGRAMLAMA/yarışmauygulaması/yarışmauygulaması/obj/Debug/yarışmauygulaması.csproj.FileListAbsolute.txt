@@ -1,0 +1,11 @@
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\bin\Debug\yarışmauygulaması.exe.config
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\bin\Debug\yarışmauygulaması.exe
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\bin\Debug\yarışmauygulaması.pdb
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.csproj.AssemblyReference.cache
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.Form1.resources
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.Properties.Resources.resources
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.csproj.GenerateResource.cache
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.exe
+C:\Users\lab.pc1\source\repos\yarışmauygulaması\yarışmauygulaması\obj\Debug\yarışmauygulaması.pdb
